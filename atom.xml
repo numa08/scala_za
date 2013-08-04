@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2013-08-04T11:47:24+09:00</updated>
+  <updated>2013-08-04T13:58:28+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -12,5 +12,243 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scala座　第3回]]></title>
+    <link href="http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03/"/>
+    <updated>2013-08-04T12:33:00+09:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03</id>
+    <content type="html"><![CDATA[<h2><a href="http://www.zusaar.com/event/900005">#新宿Scala座　第3回</a></h2>
+
+<p>新宿Scala座第3回も無事に開催をすることができました。皆様お疲れ様です。</p>
+
+<p>今回は参加者が過去最高でした。人数が多くてもゆるふわ感を維持して行きたいですね。</p>
+
+<h2>発表のまとめ</h2>
+
+<h3><a href="https://twitter.com/daneko0123">駄猫さん</a></h3>
+
+<p>Specs2が2になった話</p>
+
+<h3><a href="https://twitter.com/numa08">numa08</a></h3>
+
+<p><a href="https://gist.github.com/numa08/6149085">sbt publicとsbt-assemblyの話</a></p>
+
+<h3><a href="https://twitter.com/commonplace0807">commonplaceさん</a></h3>
+
+<p>Scalaについて考えてみた</p>
+
+<h3><a href="https://twitter.com/yuba">ゆば大好きさん</a></h3>
+
+<p><a href="http://prezi.com/fkwromiwrleh/macscala/">Mac童貞がScala開発環境を立ち上げるまで</a></p>
+
+<h3><a href="https://twitter.com/pside">今中幸太さん</a></h3>
+
+<p>Scalaをやる前にやっておくたった一つのこと</p>
+
+<h3><a href="https://twitter.com/mironal">mironalさん</a></h3>
+
+<p><a href="http://mironal.github.io/slides/2013-08-03/scala/#0">ScalatraでWebSocket</a></p>
+
+<h3><a href="https://twitter.com/haruyama">HARUYAMAさん</a></h3>
+
+<p><a href="http://haruyama.github.io/scala_20130803/">新宿Scala座</a></p>
+
+<h3><a href="https://twitter.com/mystelynx">うらうらさん</a></h3>
+
+<p>Scalatraの話</p>
+
+<h2>参考のリンク</h2>
+
+<ul>
+<li><a href="http://prezi.com/">Prezi</a> かっちょいいプレゼンが作れる</li>
+<li><a href="http://etorreborre.github.io/specs2/">Specs2</a> Scalaのテストフレームワーク</li>
+<li><a href="http://www.scalatra.org/">Scalatra</a> ScalaのWebフレームワーク</li>
+<li><a href="http://www.amazon.co.jp/Guide-to-Scala%E3%83%BCScala%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-ebook/dp/B00BOBYZTQ">Guide to ScalaーScalaプログラミング入門</a> ITProに連載されていたScalaの記事のまとめ。</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scala座　第2回]]></title>
+    <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02/"/>
+    <updated>2013-07-11T00:45:00+09:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02</id>
+    <content type="html"><![CDATA[<p>第２回新宿Scala座やってきました。前回決めたテーマをベースに、それぞれイロイロとやってきてくださっていい情報交換の場所になったと思います。</p>
+
+<p>人数も少ないので、ゆるふわな感じで開催をすることができて楽しかったですね。今後もこのスタンスでやっていきたいところ。</p>
+
+<p>発表をして頂いた方々の資料は以下になります。</p>
+
+<ul>
+<li><p><a href="https://gist.github.com/numa08/5941941">PlayでWebSocketとかやりたかった(numa08)</a></p></li>
+<li><p><a href="http://mironal.github.io/slides/2013-07-06/scala/index.html#0">Scalaのソースコードリーディング環境を考える（mironal）</a></p></li>
+<li><p><a href="https://dl.dropboxusercontent.com/u/28270864/%E6%96%B0%E5%AE%BFscala%E5%BA%A72.md">Scala座第２回 TwitterでログインするTwitterみたいなやつ(@fuji_yos)</a></p></li>
+</ul>
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/24015981" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/satoshiando1986/play-24015981" title="Play!" target="_blank">Play!</a> </strong> from <strong><a href="http://www.slideshare.net/satoshiando1986" target="_blank">Satoshi Ando</a></strong> </div></p>
+
+<h3>次にやること</h3>
+
+<p>定番の次回にやることを決めておきました。</p>
+
+<ul>
+<li><p><a href="http://twitter.com/numa08">@numa08</a>
+WebSocketがんばる</p></li>
+<li><p><a href="https://twitter.com/Fuji_Yos">@Fuji_Yos</a>
+riakをつかう</p></li>
+<li><p><a href="https://twitter.com/RASENN">@RASENN</a>
+playをがんばる</p></li>
+<li><p><a href="https://twitter.com/mironal">@mironal</a>
+playのコードを読む</p></li>
+</ul>
+
+
+<h3>参考リンクなど</h3>
+
+<ul>
+<li>markdownでスライド作る奴：<a href="http://macwright.org/biggie/">biggie</a></li>
+<li>markdownでスライド作る奴：<a href="https://github.com/softprops/picture-show">picture-show</a></li>
+<li>railsのエラーが格好良く表示されるやつ：<a href="https://github.com/charliesome/better_errors">better_errors</a></li>
+<li>テキストフォーマットltsv：<a href="http://ltsv.org/">ltsv</a></li>
+<li>Eclipseに組み込まれたScala開発環境：<a href="http://scala-ide.org/">ScalaIDE</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scala座　第1回]]></title>
+    <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01/"/>
+    <updated>2013-07-11T00:18:00+09:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01</id>
+    <content type="html"><![CDATA[<h2>キックオフしてきた</h2>
+
+<p><a href="http://www.zusaar.com/event/788003">#新宿Scala座</a></p>
+
+<p>新宿Scala座、それはScalaを勉強するコミュニティ</p>
+
+<p>ということで、キックオフと称して第１回を開催しました。</p>
+
+<p>参加者の皆様、お疲れ様です！！</p>
+
+<h2>新宿Scala座とは？</h2>
+
+<p>次のスライドにまとめました。</p>
+
+<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="http://numa08.github.io/scala_za//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>ちなみに、今回の集まりは定例会です。</p>
+
+<h2>課題を決める</h2>
+
+<p>次回以降、皆様に発表をしていただくため課題をそれぞれ決めることになりました。</p>
+
+<h2>と思ったら</h2>
+
+<p>なんということでしょう！<a href="https://plus.google.com/u/0/113699421589247328057/posts">駄猫さん</a>はちゃんと発表資料を用意して来たとのこと！！</p>
+
+<p>さすがです！！</p>
+
+<p>そんな駄猫さんの発表はこちら。</p>
+
+<p><a href="https://gist.github.com/daneko/ef3b8f403542963b70d9">なんか発表しろってことになっているしやっとく</a></p>
+
+<p>Play2.1でJSONのパースを行うお話でした。</p>
+
+<p>Play2.0からPlay2.1にかけてJSONのパーサが結構変わったために戸惑っていた自分にとっても有難い内容でした。</p>
+
+<h2>課題を決めます</h2>
+
+<p>今回の参加者の方々が決めた課題は以下のとおりです。</p>
+
+<h3><a href="http://numa08.net">numa08</a></h3>
+
+<pre><code>-sbtのAndroidプラグインに手を加える
+-Android with scalaを目指す
+-vagrantをこえる何かを目指す
+-ドキュメントを読む
+-apache common cliとか
+</code></pre>
+
+<h3><a href="https://plus.google.com/u/0/113699421589247328057/posts">駄猫さん</a></h3>
+
+<pre><code>-Playを使わせる←くずいなぁ
+-Playのアプリをサクッとデプロイする方法（を考えさせる）
+</code></pre>
+
+<h3><a href="https://twitter.com/STAR_ZERO/">すたぜろさん</a></h3>
+
+<pre><code>-入門からやる
+-ぼくの考えたさいきょうのかんきょうを布教する
+</code></pre>
+
+<h3><a href="https://twitter.com/mominosin">もみんさん</a></h3>
+
+<pre><code>-akkaのログをさぐる（？）
+-ログの管理をする（？）
+-ぼくの考えたさいきょうのロガー
+</code></pre>
+
+<h3><a href="http://wpaso.wordpress.com/">wizard_paso</a></h3>
+
+<pre><code>-Twitterに投稿するすごくひじょうにとがったワクワクするおもしろいなにか(with T4j)←ほれるわ
+</code></pre>
+
+<h3><a href="http://mironal-memo.blogspot.jp/">みろなるさん</a></h3>
+
+<pre><code>-playをしっかりやるよ
+-かわいい♡♡webapp♡♡
+-関数型言語としてScalaをつかう
+</code></pre>
+
+<h3><a href="https://twitter.com/Fuji_Yos">Fuji_Yosさん</a></h3>
+
+<pre><code>-twitterでログインするかっこいいtwitterをplayでつくる
+</code></pre>
+
+<h3><a href="https://twitter.com/moriokawataru">もりおかさん</a></h3>
+
+<pre><code>-コップ本を読む
+</code></pre>
+
+<h2>勉強会てきなこと</h2>
+
+<h3>発表資料</h3>
+
+<ul>
+<li><a href="http://mironal.github.io/slides/2013-03-13/scala/index.html">Scala入門</a></li>
+</ul>
+
+
+<p>みろなるさんによるScalaの入門。</p>
+
+<p>Scalaの基本の文法やREPLを使ったコーディング、各クラスのメソッドの紹介など。</p>
+
+<h3>キーワード、FW、環境など</h3>
+
+<ul>
+<li><p><a href="http://twitter.github.io/finagle/">Finagle</a>
+TwitterによるScalaを使ったWebアプリケーションフレームワーク</p></li>
+<li><p><a href="http://www.amazon.co.jp/dp/4844330845">Scalaスケーラブルプログラミング第2版</a>
+定番のScala本。通称コップ本。思ったよりもビショビショな感じの表紙じゃなかった。</p></li>
+<li><p><a href="http://twitter4j.org/ja/index.html">Twitter4j</a>
+Javaから使えるTwitterAPIのラッパーライブラリ。ちょうべんり。Scalaからも使える。</p></li>
+<li><p><a href="https://github.com/twitter/hbc">Horsebird</a>
+Twitterが公開しているTwitterAPIのJava用ラッパーライブラリ。T4jを中で使ってるっぽい。Scalaからも使える。</p></li>
+</ul>
+
+
+<h2>次回</h2>
+
+<p>7月の初旬の予定？</p>
+]]></content>
+  </entry>
   
 </feed>
