@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2013-08-04T16:38:17+09:00</updated>
+  <updated>2013-08-04T16:59:11+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -18,7 +18,7 @@
     <link href="http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03/"/>
     <updated>2013-08-04T12:33:00+09:00</updated>
     <id>http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03</id>
-    <content type="html"><![CDATA[<p><img src="images/header_03.png" alt="" /></p>
+    <content type="html"><![CDATA[<p><a href="https://gist.github.com/numa08/6149636"><img src="http://instacod.es/file/78886" width="400" height="300"></a></p>
 
 <h2><a href="http://www.zusaar.com/event/900005">#新宿Scala座　第3回</a></h2>
 
