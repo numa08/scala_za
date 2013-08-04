@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2013-08-04T13:58:28+09:00</updated>
+  <updated>2013-08-04T13:59:57+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Scala座　第3回]]></title>
+    <title type="html"><![CDATA[#新宿Scala座　第3回]]></title>
     <link href="http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03/"/>
     <updated>2013-08-04T12:33:00+09:00</updated>
     <id>http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03</id>
@@ -71,7 +71,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Scala座　第2回]]></title>
+    <title type="html"><![CDATA[#新宿Scala座　第2回]]></title>
     <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02/"/>
     <updated>2013-07-11T00:45:00+09:00</updated>
     <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02</id>
@@ -123,7 +123,7 @@ playのコードを読む</p></li>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Scala座　第1回]]></title>
+    <title type="html"><![CDATA[#新宿Scala座　第1回]]></title>
     <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01/"/>
     <updated>2013-07-11T00:18:00+09:00</updated>
     <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01</id>
