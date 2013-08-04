@@ -1,0 +1,110 @@
+---
+layout: post
+title: "#新宿Scala座　第1回"
+date: 2013-07-11 00:18
+comments: false
+categories: 
+---
+
+## キックオフしてきた
+
+[#新宿Scala座](http://www.zusaar.com/event/788003)
+
+新宿Scala座、それはScalaを勉強するコミュニティ
+
+ということで、キックオフと称して第１回を開催しました。
+
+参加者の皆様、お疲れ様です！！
+
+## 新宿Scala座とは？
+
+次のスライドにまとめました。
+
+<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+ちなみに、今回の集まりは定例会です。
+
+## 課題を決める
+
+次回以降、皆様に発表をしていただくため課題をそれぞれ決めることになりました。
+
+
+## と思ったら
+
+なんということでしょう！[駄猫さん](https://plus.google.com/u/0/113699421589247328057/posts)はちゃんと発表資料を用意して来たとのこと！！
+
+さすがです！！
+
+そんな駄猫さんの発表はこちら。
+
+[なんか発表しろってことになっているしやっとく](https://gist.github.com/daneko/ef3b8f403542963b70d9)
+
+Play2.1でJSONのパースを行うお話でした。
+
+Play2.0からPlay2.1にかけてJSONのパーサが結構変わったために戸惑っていた自分にとっても有難い内容でした。
+
+## 課題を決めます
+
+今回の参加者の方々が決めた課題は以下のとおりです。
+
+### [numa08](http://numa08.net)
+	-sbtのAndroidプラグインに手を加える
+	-Android with scalaを目指す
+	-vagrantをこえる何かを目指す
+	-ドキュメントを読む
+	-apache common cliとか
+
+### [駄猫さん](https://plus.google.com/u/0/113699421589247328057/posts)
+	-Playを使わせる←くずいなぁ
+	-Playのアプリをサクッとデプロイする方法（を考えさせる）
+
+### [すたぜろさん](https://twitter.com/STAR_ZERO/)
+	-入門からやる
+	-ぼくの考えたさいきょうのかんきょうを布教する
+
+### [もみんさん](https://twitter.com/mominosin)
+	-akkaのログをさぐる（？）
+	-ログの管理をする（？）
+	-ぼくの考えたさいきょうのロガー
+
+### [wizard_paso](http://wpaso.wordpress.com/)
+	-Twitterに投稿するすごくひじょうにとがったワクワクするおもしろいなにか(with T4j)←ほれるわ
+
+### [みろなるさん](http://mironal-memo.blogspot.jp/)
+	-playをしっかりやるよ
+	-かわいい♡♡webapp♡♡
+	-関数型言語としてScalaをつかう
+
+### [Fuji_Yosさん](https://twitter.com/Fuji_Yos)
+	-twitterでログインするかっこいいtwitterをplayでつくる
+
+### [もりおかさん](https://twitter.com/moriokawataru)
+	-コップ本を読む
+
+## 勉強会てきなこと
+
+### 発表資料
+
+- [Scala入門](http://mironal.github.io/slides/2013-03-13/scala/index.html)
+
+みろなるさんによるScalaの入門。
+
+Scalaの基本の文法やREPLを使ったコーディング、各クラスのメソッドの紹介など。
+
+### キーワード、FW、環境など
+
+* [Finagle](http://twitter.github.io/finagle/) 
+TwitterによるScalaを使ったWebアプリケーションフレームワーク
+
+* [Scalaスケーラブルプログラミング第2版](http://www.amazon.co.jp/dp/4844330845)
+定番のScala本。通称コップ本。思ったよりもビショビショな感じの表紙じゃなかった。
+
+* [Twitter4j](http://twitter4j.org/ja/index.html)
+Javaから使えるTwitterAPIのラッパーライブラリ。ちょうべんり。Scalaからも使える。
+
+* [Horsebird](https://github.com/twitter/hbc)
+Twitterが公開しているTwitterAPIのJava用ラッパーライブラリ。T4jを中で使ってるっぽい。Scalaからも使える。
+
+## 次回
+
+7月の初旬の予定？

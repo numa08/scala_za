@@ -1,0 +1,43 @@
+---
+layout: post
+title: "#新宿Scala座　第2回"
+date: 2013-07-11 00:45
+comments: false
+categories: 
+---
+第２回新宿Scala座やってきました。前回決めたテーマをベースに、それぞれイロイロとやってきてくださっていい情報交換の場所になったと思います。
+
+人数も少ないので、ゆるふわな感じで開催をすることができて楽しかったですね。今後もこのスタンスでやっていきたいところ。
+
+発表をして頂いた方々の資料は以下になります。
+
+ - [PlayでWebSocketとかやりたかった(numa08)](https://gist.github.com/numa08/5941941)
+
+ - [Scalaのソースコードリーディング環境を考える（mironal）](http://mironal.github.io/slides/2013-07-06/scala/index.html#0)
+
+ - [Scala座第２回 TwitterでログインするTwitterみたいなやつ(@fuji_yos)](https://dl.dropboxusercontent.com/u/28270864/%E6%96%B0%E5%AE%BFscala%E5%BA%A72.md)
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/24015981" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/satoshiando1986/play-24015981" title="Play!" target="_blank">Play!</a> </strong> from <strong><a href="http://www.slideshare.net/satoshiando1986" target="_blank">Satoshi Ando</a></strong> </div>
+
+### 次にやること
+
+定番の次回にやることを決めておきました。
+
+ - [@numa08](http://twitter.com/numa08)
+WebSocketがんばる
+
+ - [@Fuji_Yos](https://twitter.com/Fuji_Yos)
+riakをつかう
+
+ - [@RASENN](https://twitter.com/RASENN)
+playをがんばる
+
+ - [@mironal](https://twitter.com/mironal)
+playのコードを読む
+
+### 参考リンクなど
+ - markdownでスライド作る奴：[biggie](http://macwright.org/biggie/)
+ - markdownでスライド作る奴：[picture-show](https://github.com/softprops/picture-show)
+ - railsのエラーが格好良く表示されるやつ：[better_errors](https://github.com/charliesome/better_errors)
+ - テキストフォーマットltsv：[ltsv](http://ltsv.org/)
+ - Eclipseに組み込まれたScala開発環境：[ScalaIDE](http://scala-ide.org/)

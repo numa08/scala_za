@@ -1,0 +1,57 @@
+---
+layout: post
+title: "#新宿Scala座　第3回"
+date: 2013-08-04 12:33
+comments: true
+categories: 
+---
+
+## [#新宿Scala座　第3回](http://www.zusaar.com/event/900005)
+
+新宿Scala座第3回も無事に開催をすることができました。皆様お疲れ様です。
+
+
+今回は参加者が過去最高でした。人数が多くてもゆるふわ感を維持して行きたいですね。
+
+## 発表のまとめ
+
+[#新宿Scala座　第3回 - togetter](http://togetter.com/li/543834)
+
+### [駄猫さん](https://twitter.com/daneko0123)
+
+Specs2が2になった話
+
+### [numa08](https://twitter.com/numa08)
+
+[sbt publicとsbt-assemblyの話](https://gist.github.com/numa08/6149085)
+
+### [commonplaceさん](https://twitter.com/commonplace0807)
+
+Scalaについて考えてみた
+
+### [ゆば大好きさん](https://twitter.com/yuba)
+
+[Mac童貞がScala開発環境を立ち上げるまで](http://prezi.com/fkwromiwrleh/macscala/)
+
+### [今中幸太さん](https://twitter.com/pside)
+
+Scalaをやる前にやっておくたった一つのこと
+
+### [mironalさん](https://twitter.com/mironal)
+
+[ScalatraでWebSocket](http://mironal.github.io/slides/2013-08-03/scala/#0)
+
+### [HARUYAMAさん](https://twitter.com/haruyama)
+
+[新宿Scala座](http://haruyama.github.io/scala_20130803/)
+
+### [うらうらさん](https://twitter.com/mystelynx)
+
+Scalatraの話
+
+## 参考のリンク
+
+- [Prezi](http://prezi.com/) かっちょいいプレゼンが作れる
+- [Specs2](http://etorreborre.github.io/specs2/) Scalaのテストフレームワーク
+- [Scalatra](http://www.scalatra.org/) ScalaのWebフレームワーク
+- [Guide to ScalaーScalaプログラミング入門](http://www.amazon.co.jp/Guide-to-Scala%E3%83%BCScala%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-ebook/dp/B00BOBYZTQ) ITProに連載されていたScalaの記事のまとめ。
