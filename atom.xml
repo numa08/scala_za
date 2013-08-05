@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[新宿Scala座]]></title>
-  <link href="http://numa08.github.io/scala_za//atom.xml" rel="self"/>
-  <link href="http://numa08.github.io/scala_za//"/>
-  <updated>2013-08-05T23:06:36+09:00</updated>
-  <id>http://numa08.github.io/scala_za//</id>
+  <link href="http://numa08.github.io//atom.xml" rel="self"/>
+  <link href="http://numa08.github.io//"/>
+  <updated>2013-08-05T23:08:28+09:00</updated>
+  <id>http://numa08.github.io//</id>
   <author>
     <name><![CDATA[numa08]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第3回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/08/04/scalaza-03/"/>
+    <link href="http://numa08.github.io//blog/2013/08/04/scalaza-03/"/>
     <updated>2013-08-04T12:33:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/08/04/scalaza-03</id>
+    <id>http://numa08.github.io//blog/2013/08/04/scalaza-03</id>
     <content type="html"><![CDATA[<h2><a href="http://www.zusaar.com/event/900005">#新宿Scala座　第3回</a></h2>
 
 <p>新宿Scala座第3回も無事に開催をすることができました。皆様お疲れ様です。</p>
@@ -74,9 +74,9 @@
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第2回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-02/"/>
+    <link href="http://numa08.github.io//blog/2013/07/11/scalaza-02/"/>
     <updated>2013-07-11T00:45:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-02</id>
+    <id>http://numa08.github.io//blog/2013/07/11/scalaza-02</id>
     <content type="html"><![CDATA[<p>第２回新宿Scala座やってきました。前回決めたテーマをベースに、それぞれイロイロとやってきてくださっていい情報交換の場所になったと思います。</p>
 
 <p>人数も少ないので、ゆるふわな感じで開催をすることができて楽しかったですね。今後もこのスタンスでやっていきたいところ。</p>
@@ -126,9 +126,9 @@ playのコードを読む</p></li>
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第1回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-01/"/>
+    <link href="http://numa08.github.io//blog/2013/07/11/scalaza-01/"/>
     <updated>2013-07-11T00:18:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-01</id>
+    <id>http://numa08.github.io//blog/2013/07/11/scalaza-01</id>
     <content type="html"><![CDATA[<h2>キックオフしてきた</h2>
 
 <p><a href="http://www.zusaar.com/event/788003">#新宿Scala座</a></p>
@@ -143,7 +143,7 @@ playのコードを読む</p></li>
 
 <p>次のスライドにまとめました。</p>
 
-<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="http://numa08.github.io/scala_za///speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="http://numa08.github.io///speakerdeck.com/assets/embed.js"></script>
 
 
 <p>ちなみに、今回の集まりは定例会です。</p>
