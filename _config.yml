@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://numa08.github.io/scala_za
+url: http://numa08.github.io/scala_za/
 title: 新宿Scala座
 subtitle: 新宿Scala座のまとめ
 author: numa08
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /scala_za
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public/scala_za
