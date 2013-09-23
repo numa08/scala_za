@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-01/</loc>
-        <lastmod>2013-08-04T13:59:33+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-02/</loc>
-        <lastmod>2013-08-04T13:59:42+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//blog/2013/08/04/scalaza-03/</loc>
-        <lastmod>2013-08-05T23:41:57+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//blog/2013/08/15/scalaza-04-pre/</loc>
-        <lastmod>2013-08-15T22:30:07+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/blog/2013/09/21/scalaza-04/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//blog/archives/</loc>
-        <lastmod>2013-08-15T22:30:07+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/blog/archives/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//</loc>
-        <lastmod>2013-08-15T22:30:07+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//new-page/</loc>
-        <lastmod>2013-08-04T11:53:50+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/new-page/</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
     <url>
-        <loc>http://numa08.github.io/scala_za//robots.txt</loc>
-        <lastmod>2013-08-04T11:29:28+09:00</lastmod>
+        <loc>http://numa08.github.io/scala_za/robots.txt</loc>
+        <lastmod>2013-09-23T07:50:58+00:00</lastmod>
     </url>
 </urlset>

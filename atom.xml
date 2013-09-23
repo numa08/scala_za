@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[新宿Scala座]]></title>
-  <link href="http://numa08.github.io/scala_za//atom.xml" rel="self"/>
-  <link href="http://numa08.github.io/scala_za//"/>
-  <updated>2013-08-15T22:32:19+09:00</updated>
-  <id>http://numa08.github.io/scala_za//</id>
+  <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
+  <link href="http://numa08.github.io/scala_za/"/>
+  <updated>2013-09-23T08:00:37+00:00</updated>
+  <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
     
@@ -14,24 +14,60 @@
 
   
   <entry>
-    <title type="html"><![CDATA[#新宿Scala座 第4回 やりますよ]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/08/15/scalaza-04-pre/"/>
-    <updated>2013-08-15T22:26:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/08/15/scalaza-04-pre</id>
-    <content type="html"><![CDATA[<p>9/21(土)に新宿Scala座第4回やります。<a href="http://www.zusaar.com/event/997003">#新宿Scala座 第4回　Scala勉強会 on Zusaar</a></p>
+    <title type="html"><![CDATA[#新宿Scala座　第４回]]></title>
+    <link href="http://numa08.github.io/scala_za/blog/2013/09/21/scalaza-04/"/>
+    <updated>2013-09-21T23:53:00+00:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/09/21/scalaza-04</id>
+    <content type="html"><![CDATA[<h2><a href="http://www.zusaar.com/event/997003">#新宿Scala座 第４回</a></h2>
 
-<p>場所などの詳細はZusaarからどうぞ。例によって、ゆるふわくやりますので、よろしくお願いします。</p>
+<p>色々とありましたが、新宿Scala座第４回を無事に開催することができました。参加者の皆様、ありがとうございます。</p>
+
+<p>相変わらず新宿で開催をする日を迎えることはなさそうですね。</p>
+
+<p>では以下発表資料です。</p>
+
+<h3><a href="https://twitter.com/mironal">みろなるさん</a></h3>
+
+<p><a href="http://mironal.github.io/slides/2013-09-21/scala/index.html#0">生きるのが面倒だからScalaを使って家を制御できるようにした</a></p>
+
+<p>ちょっと前に引っ越しをされたみろなるさんが、お家のオーディオやテレビの制御をScala + Scalatraで行ったお話です。Scalaではわりと簡単にUnixのコマンドを実行する仕組みが提供されているので、Webのインターフェースから、サーバーを制御なんてこともできます。</p>
+
+<h3><a href="https://twitter.num/numa">numa08</a></h3>
+
+<p><a href="https://gist.github.com/numa08/6655545">ScalaでAndroidの開発をやる話。</a></p>
+
+<p>ScalaでAndroidアプリを作る方法はいくつか提供されていますが、それらが抱える問題点、不満点と自分が見つけてきた方法の紹介を行いました。方法はありますが、ScalaとAndroidの組み合わせが決していいものではないかな、と感じました。</p>
+
+<h3><a href="https://twitter.com/Fuji_Yos">Fuji_Yosさん</a></h3>
+
+<p>riakとScalaの話。</p>
+
+<p>key-valueなデータストアriakとScala+PlayFrameworkを組み合わせたお話。riakは日本語のドキュメントが充実してまた、ScalaからのO/RMも提供されているとのこと。説明を聞く限り使い安い雰囲気でしたのでそう言った意味で敷居が低いのはいいですね。</p>
+
+<h3><a href="https://twitter.com/white_azalea">white_azaleaさん</a></h3>
+
+<p><a href="http://www.white-azalea.net/ginza_scalaza.zip">Akka</a></p>
+
+<p>Scalaで分散並列処理を行う際の定番Akkaの解説。発表の内容としては、AkkaよりもTypesafe Activatorが全てを持って行った感があります。こんなものが提供されていたんですね。</p>
+
+<h2>参考リンク</h2>
+
+<ul>
+<li><a href="http://www.robovm.org/">RoboVM</a> JavaのコードでAndroid,iOS,Mac用アプリケーションを作成することのできるソフトウェア</li>
+<li><a href="https://mynd.jp/">mynd.jp</a> あなたのほしいニュースを引き寄せる。Scalaで動いているそうです。</li>
+<li><a href="http://www.rabbitmq.com/">RabbitMW</a> メッセージの送受信を行うミドルウェア。言語間やフレームワーク間のやり取りをいいかんじにしてくれるそうです。</li>
+<li><a href="http://typesafe.com/activator">Typesafe Activator</a> PlayやAkkaなどでアプリケーションを作る際に、テンプレートやブラウザから操作できるIDEを提供してくれます。</li>
+</ul>
+
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第3回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/08/04/scalaza-03/"/>
-    <updated>2013-08-04T12:33:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/08/04/scalaza-03</id>
-    <content type="html"><![CDATA[<p><a href="https://gist.github.com/numa08/6149636"><img src="http://instacod.es/file/78886"></a></p>
-
-<h2><a href="http://www.zusaar.com/event/900005">#新宿Scala座　第3回</a></h2>
+    <link href="http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03/"/>
+    <updated>2013-08-04T12:33:00+00:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/08/04/scalaza-03</id>
+    <content type="html"><![CDATA[<h2><a href="http://www.zusaar.com/event/900005">#新宿Scala座　第3回</a></h2>
 
 <p>新宿Scala座第3回も無事に開催をすることができました。皆様お疲れ様です。</p>
 
@@ -87,9 +123,9 @@
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第2回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-02/"/>
-    <updated>2013-07-11T00:45:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-02</id>
+    <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02/"/>
+    <updated>2013-07-11T00:45:00+00:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-02</id>
     <content type="html"><![CDATA[<p>第２回新宿Scala座やってきました。前回決めたテーマをベースに、それぞれイロイロとやってきてくださっていい情報交換の場所になったと思います。</p>
 
 <p>人数も少ないので、ゆるふわな感じで開催をすることができて楽しかったですね。今後もこのスタンスでやっていきたいところ。</p>
@@ -139,9 +175,9 @@ playのコードを読む</p></li>
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座　第1回]]></title>
-    <link href="http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-01/"/>
-    <updated>2013-07-11T00:18:00+09:00</updated>
-    <id>http://numa08.github.io/scala_za//blog/2013/07/11/scalaza-01</id>
+    <link href="http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01/"/>
+    <updated>2013-07-11T00:18:00+00:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2013/07/11/scalaza-01</id>
     <content type="html"><![CDATA[<h2>キックオフしてきた</h2>
 
 <p><a href="http://www.zusaar.com/event/788003">#新宿Scala座</a></p>
@@ -156,7 +192,7 @@ playのコードを読む</p></li>
 
 <p>次のスライドにまとめました。</p>
 
-<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="http://numa08.github.io/scala_za///speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="a7abedc0b26d0130bf4b522db3365f5f" data-ratio="1.33333333333333" src="http://numa08.github.io/scala_za//speakerdeck.com/assets/embed.js"></script>
 
 
 <p>ちなみに、今回の集まりは定例会です。</p>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://numa08.github.io/scala_za//sitemap.xml 
+Sitemap: http://numa08.github.io/scala_za/sitemap.xml 
