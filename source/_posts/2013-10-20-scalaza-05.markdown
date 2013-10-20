@@ -1,0 +1,35 @@
+---
+layout: post
+title: "#新宿Scala座 第5回"
+date: 2013-10-20 12:13
+comments: true
+categories: 
+---
+
+## [#新宿Scala座 第5回](http://www.zusaar.com/event/1077006)
+
+10月の新宿Scala座、無事に開催できました。メンバーは前回と同じ方々で、前回同様に有意義な情報交換、共有をゆるふわっとやりましたよ。
+
+## 発表資料
+
+### [mironalさん](https://twitter.com/mironal)
+[Scala周りの便利なツールの紹介](http://mironal.github.io/slides/2013-10-19/scala/index.html#0)
+
+### [numa08](https://twitter.com/numa08)
+[JenkinsとPlayframework](https://gist.github.com/numa08/7064645)
+
+## 参考リンクなど
+- [Pack4J](https://github.com/leleuj/play-pac4j)
+- PlayFramework2.xで通信や認証を簡単にするためのプラグイン
+- [Play-plugin](https://wiki.jenkins-ci.org/display/JENKINS/play-plugin)
+- Jenkins用のPlayframeworkプラグイン
+- [pvm](https://github.com/kaiinkinen/pvm)
+- PlayFrameworkのバージョン管理ツール
+- [svm](https://github.com/yuroyoro/svm)
+- Scalaのバージョン管理ツール
+- [tf-idf](http://ja.wikipedia.org/wiki/Tf-idf) 
+- 枝切りの方法
+- [Scala Active Record](https://github.com/aselab/scala-activerecord`)
+- ScalaのORマッパー
+- [knockoff](https://github.com/tristanjuricek/knockoff)
+- ScalaのMarkdownパーサー
