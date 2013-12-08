@@ -1,0 +1,71 @@
+---
+layout: post
+title: "新宿Scala座 第6会"
+date: 2013-12-09 00:55
+comments: true
+categories: 
+---
+
+[#新宿Scala座 第6回](http://www.zusaar.com/event/1377007)
+
+
+今回も無事に開催をすることが出来ました。12月開催なので、2013年の最後の新宿Scala座ですね。新しく来てくださった方が今回は2人もいて、ゆるふわな時間を共有できたと思います。
+
+
+Scalaに限らず、幅広く情報共有を行う場としてこれからもあり続けたいですね。
+
+## 発表資料
+
+### [numa08](http://twitter.com/numa08)
+
+[新入社員の書いたコードを直す簡単なお仕事のライブコーディング](https://speakerdeck.com/numa08/xin-su-scalazuo-di-6hui)
+
+一瞬話題になった[新人女子プログラマの書いたコードを直すだけの簡単なお仕事です！｜](https://paiza.jp/poh/ec-campaign)をライブコーディングでやってきました。Scalaの力を持ってすれば、この程度のコードは簡単に記述できます。さすがですね。
+
+
+問題は、paizaさんがScalaに対応していないことですが・・・。
+
+
+回答の詳細などは、俺のブログにまとめましたので、よろしければそちらも。[#新宿Scala座　で新入女子社員を救ってきた - @numa08　猫耳帽子の女の子](http://numa08.hateblo.jp/entry/2013/12/07/231305)
+
+### [mironalさん](https://twitter.com/mironal)
+
+[Githubのissueを見やすい何かをつくる(妄想)](http://mironal.github.io/slides/2013-12-07/scala/index.html#0)
+
+
+Githubnのissueをメンバーで共有するためのツールをScalaで作る妄想を語っていただきました。Githubでチーム開発を行ったことは俺はまだないのですが、こういうツールがあると便利そうでいいですよね。Redmineも良いけど確かに機能が沢山アリすぎて、把握しきれないですから・・・。
+
+### [white-azaleaさん](http://white-azalea.hatenablog.jp/)
+
+Vagrant,chefなどを利用してScalaの開発環境を作る方法、そしてNOSQLをScalaから触る場合に適しているツール、ライブラリの評価を行われていました。資料は近日アップロードします。
+
+### [hiraivaさん](https://twitter.com/hiraiva)
+
+DSPシステムを実装された際のお話をしていただきました。ミリ秒単位での処理が求められる世界ですが、Scala自体はチューニングをあまり行う必要はなかったとのことです。ただ、システム全体をコンパイルすると10分程度かかると聞いて、旋律を覚えました・・・。
+
+## 参考のリンク
+
+ - [skinny framework](https://github.com/skinny-framework/skinny-framework)
+     - ScalatraがベースのWeb Application Framework
+     - 日本人が開発者
+     - issueの対応がものすごい速い
+ - [Dispatce](http://dispatch.databinder.net/Dispatch.html)
+     - ScalaのHTTPクライアントライブラリ
+     - アロー演算子とか使いまくってて楽しい
+ - [Play WS API](http://www.playframework.com/documentation/2.1-RC3/ScalaWS)
+     - PlayframeworkのHTTPクライアント
+ - [Vagrant](http://www.vagrantup.com/)
+     - Virtuabloxを簡単に操作するやつ
+     - 仮想マシンを作って試して壊して、そしてまた作れる
+ 	 - chefと連携して最強のツールになる
+ - [chef](http://www.opscode.com/chef/)
+	 - 構成管理ツール
+	 - サーバーにツールの導入とかを一気にやってくれる
+	 - チーム内で共通の開発環境を導入するのに便利
+- [Wubi](http://www.ubuntu.com/download/desktop/windows-installer)
+	 - Windowsにお手軽にUbunthu環境をインストールするツール
+	 - もう開発はWindowsじゃできないよな人向け
+	 - 環境を消すのもお手軽にできる
+- [ansible](http://www.ansibleworks.com/)
+	 - 構成管理ツール
+	 - chefはRubyだけどこっちはPython
