@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2013-12-09T22:19:02+09:00</updated>
+  <updated>2013-12-09T23:42:01+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[新宿Scala座 第6回]]></title>
+    <title type="html"><![CDATA[#新宿Scala座 第6回]]></title>
     <link href="http://numa08.github.io/scala_za/blog/2013/12/09/scalaza-06/"/>
     <updated>2013-12-09T00:55:00+09:00</updated>
     <id>http://numa08.github.io/scala_za/blog/2013/12/09/scalaza-06</id>
@@ -45,6 +45,8 @@
 <p>Githubnのissueをメンバーで共有するためのツールをScalaで作る妄想を語っていただきました。Githubでチーム開発を行ったことは俺はまだないのですが、こういうツールがあると便利そうでいいですよね。Redmineも良いけど確かに機能が沢山アリすぎて、把握しきれないですから・・・。</p>
 
 <h3><a href="http://white-azalea.hatenablog.jp/">white-azaleaさん</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/6th/yoshii/#/">ここ１月の僕</a></p>
 
 <p>Vagrant,chefなどを利用してScalaの開発環境を作る方法、そしてNOSQLをScalaから触る場合に適しているツール、ライブラリの評価を行われていました。資料は近日アップロードします。</p>
 
@@ -177,6 +179,7 @@
 </ul>
 </li>
 <li><a href="http://numa08.github.io/scala_za_data/4th/numa08/#0">numa08の第4回目資料</a></li>
+<li><a href="http://numa08.github.io/scala_za_data/4th/yoshii/#/">white-azaleaさんの４回目の資料</a></li>
 </ul>
 
 ]]></content>
