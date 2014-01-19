@@ -33,7 +33,7 @@ categories:
 
 ### [white-azaleaさん](http://white-azalea.hatenablog.jp/)
 
-[12月位から やばい殆どなにもしてない(;´Д｀)]()
+[12月位から やばい殆どなにもしてない(;´Д｀)](http://numa08.github.io/scala_za_data/7th/yoshii/#/)
 
 常連のwhite-azaleaさんも年末年始でやられたことの報告を行っていただきました。詳細は発表資料にありますが、
 
