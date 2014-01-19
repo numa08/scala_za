@@ -46,9 +46,57 @@ PlayのHTTPクライアントのWSは便利ですが、非同期通信が前提�
 
 ### [mironalさん](https://twitter.com/mironal)
 
+[開発中に生まれたツールを紹介](http://mironal.github.io/slides/2014-01-18/scala/index.html#0)
+
 こちらも常連のmironalさん、今回は会社で実装、利用を行っているツールの紹介を行っていただきました。
 
 やはりScalaはJVM上で動作をする言語なため、起動に時間がかかってしまいます。また、暗黙的な機能などによってかコンパイルにも時間がかかることもよく言われます。そのため、デーモンとして常時起動するものや、またScalaの持つ便利なデータ処理APIを活用できる場で活用していくのがいいんでしょうね。
 
 ### [tanaproさん](https://twitter.com/tanapro)
 
+[ScalaでFX](http://www.slideshare.net/mobile/dsaki/20140118-social-fx)
+
+[SocialFX - ユーザー参加型FX取引プラットフォーム](http://socialfx.jp.net/)をSaclaを利用して実装されたと言うお話です。サービス内容の意味不明感もさることながら、使っているツール群の拡張も結構アレな感じ素敵ですｗ。Scalaに無限の可能性を感じる・・・！！
+
+実際、ScalaやPlayframeworkはリアルタイムな処理を求められる箇所での導入実績もあるようで、例えば金融取引とかの場でも活用ができますね。
+
+### [Pikahoさん](https://twitter.com/Pikaho)
+
+お仕事で実装されているゲームのサーバーサイドをPlayframeworkを利用して実装されているそうで、なんとそのコードのコードレビューをScala座で行うという、（たぶん）Scala座初のスタイルの発表でした。いくつか指摘は上がりましたが例えば
+
+ - `var`より`val`を使ったほうがいいはもしかしたら迷信かもしれない
+ - `hogehoge1`,`hogehoge2`みたいな変数名はやめよう
+     - コレクションを利用しよう
+ - エラー処理は極力まとめよう
+ - jsonのパースはfor-yield式を使ってかっこよく
+ - Viewが要らないサービスでも、生存確認のためにViewを用意しておくのはいいかも
+
+と言った点が挙がりました。コードのスタイルは個人やチームによって大きく異ることがある点ですが、とは言え一般的にバッドプラクティスと呼ばれる物には注意していきたいですね。
+
+### [yubaさん](https://twitter.com/yuba)
+
+[Scalaの型体系はとてもいい](http://prezi.com/xr-6dmkzc2tg/scala/)
+
+型システムの視点でScalaの他にKotlin,Ceylon,そしてTypeScript,CoffeeScript,Hexeなどの調査を行った報告です。Scalaが型に関して非常に力があることがわかりますね。
+
+しかし、Playframeworkを利用することは決まっていてチーム内で実績などからJavaが採用されたとのこと。
+
+この調査結果は消して無駄にはならない・・・はず・・・
+
+### [Fuji_Yosさん](https://twitter.com/Fuji_Yos)
+
+RiakとScalaでTwitterｄでログインをするTwitterみたいな何かをするサービスの実装を続けているFuji_Yosさん。そこの進捗報告でした。Riakは認証機構を自前で実装する必要があるとのことで、その辺りの処理を行うとコードがアレなことになるとのこと。ここでもPlayのWS関連のパワー不足が気になったそうでした。
+
+さらに実装は完了したそうですが、自前でログインを行う機能を実装してしまったようでTwitterで認証する仕組みではなくなると言う落ちが・・・。
+
+## 参考のリンク
+
+ - [spray/twirl](https://github.com/spray/twirl)
+     - Scalaのテンプレートエンジン
+ - [Hex](http://www.hexlang.org/)
+     - マルチパラダイムなプログラミング言語。Enumがキモイ
+ - [Ceylon](http://ceylon-lang.org/)
+     - 型システムが強い、JVMとJavaScript実行環境で動作をする言語。
+ - [Scaloid](https://github.com/pocorall/scaloid)
+     - ScalaでAndroidのアプリを実装するためのライブラリ、フレームワーク
+ 
