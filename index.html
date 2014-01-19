@@ -9,7 +9,7 @@
   <meta name="author" content="numa08">
 
   
-  <meta name="description" content="#新宿Scala座 第6回 今回も無事に開催をすることが出来ました。12月開催なので、2013年の最後の新宿Scala座ですね。新しく来てくださった方が今回は2人もいて、ゆるふわな時間を共有できたと思います。 Scalaに限らず、幅広く情報共有を行う場としてこれからもあり続けたいですね。 発表資料 &hellip;">
+  <meta name="description" content="#新宿Scala座　１月号　Scala勉強会 ２０１４年最初のScala座。今回からナンバリングをやめてみました。今後ナンバーが増えていくと、初めて参加される方とかで「前回参加してないのでちょっと・・・」みたいなことになってほしくないのが理由です。 そんな思いが通じたのかどうかは分かりませんが、 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -71,7 +71,173 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/scala_za/blog/2013/12/09/scalaza-06/">#新宿Scala座 第6回</a></h1>
+      <h1 class="entry-title"><a href="/scala_za/blog/2014/01/19/scalaza-07/">#新宿Scala座 &#8216;14年１月号</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-19T13:20:00+09:00" pubdate data-updated="true">Jan 19<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.zusaar.com/event/2527004">#新宿Scala座　１月号　Scala勉強会</a></p>
+
+<p>２０１４年最初のScala座。今回からナンバリングをやめてみました。今後ナンバーが増えていくと、初めて参加される方とかで「前回参加してないのでちょっと・・・」みたいなことになってほしくないのが理由です。</p>
+
+<p>そんな思いが通じたのかどうかは分かりませんが、初参加の方が何人かいらしてくれました。</p>
+
+<p>コミュニティの形成というのもScala座の目的にあるので、いろんな人が気軽に参加できるゆるふわな勉強会に今後もしていきたいですね。</p>
+
+<h2>発表資料</h2>
+
+<h3><a href="http://twitter.com/numa08">numa08</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/7th/numa08/#0">ことしもよろしくお願いしまScala</a></p>
+
+<p>年末年始、時間があったので大きく２つのことをやってきたのでその報告を行いました。やったことは</p>
+
+<ul>
+<li>conscriptでScalaのツールを作る</li>
+<li><a href="https://github.com/pocorall/scaloid">Scaloid</a>を利用てScalaでAndroidアプリを作る</li>
+</ul>
+
+
+<p>の２点。その中でimplicit-classを初めて利用してみたり、DSLを作って設定ファイルを作ってみたりと自分が今までにやったことの無いいくつかのことを試してみました。</p>
+
+<p>なかでもScaloidは結構注目できるライブラリだと感じ、これでまともにアプリを一つ実装してみようかと考えています。</p>
+
+<h3><a href="http://white-azalea.hatenablog.jp/">white-azaleaさん</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/7th/yoshii/#/">12月位から やばい殆どなにもしてない(;´Д｀)</a></p>
+
+<p>常連のwhite-azaleaさんも年末年始でやられたことの報告を行っていただきました。詳細は発表資料にありますが、</p>
+
+<ul>
+<li>PlayframeworkのWSが気に食わなかったので、ライブラリを作った</li>
+<li>JavaのThymeleafテンプレートエンジンを Play で使う</li>
+</ul>
+
+
+<p>と、スライドのタイトルに反して色々と深いところに手を入れられてます・・・。</p>
+
+<p>PlayのHTTPクライアントのWSは便利ですが、非同期通信が前提になっているのは確かにちょっと嫌な場面もありますね。また、既存のライブラリに手を入れることで、異なるフレームワークで無理やり動作をさせてしまうとは、ハッカー的な感じがして非常に楽しいです。</p>
+
+<h3><a href="https://twitter.com/mironal">mironalさん</a></h3>
+
+<p><a href="http://mironal.github.io/slides/2014-01-18/scala/index.html#0">開発中に生まれたツールを紹介</a></p>
+
+<p>こちらも常連のmironalさん、今回は会社で実装、利用を行っているツールの紹介を行っていただきました。</p>
+
+<p>やはりScalaはJVM上で動作をする言語なため、起動に時間がかかってしまいます。また、暗黙的な機能などによってかコンパイルにも時間がかかることもよく言われます。そのため、デーモンとして常時起動するものや、またScalaの持つ便利なデータ処理APIを活用できる場で活用していくのがいいんでしょうね。</p>
+
+<h3><a href="https://twitter.com/tanapro">tanaproさん</a></h3>
+
+<p><a href="http://www.slideshare.net/mobile/dsaki/20140118-social-fx">ScalaでFX</a></p>
+
+<p><a href="http://socialfx.jp.net/">SocialFX &ndash; ユーザー参加型FX取引プラットフォーム</a>をSaclaを利用して実装されたと言うお話です。サービス内容の意味不明感もさることながら、使っているツール群の拡張も結構アレな感じ素敵ですｗ。Scalaに無限の可能性を感じる・・・！！</p>
+
+<p>実際、ScalaやPlayframeworkはリアルタイムな処理を求められる箇所での導入実績もあるようで、例えば金融取引とかの場でも活用ができますね。</p>
+
+<h3><a href="https://twitter.com/Pikaho">Pikahoさん</a></h3>
+
+<p>お仕事で実装されているゲームのサーバーサイドをPlayframeworkを利用して実装されているそうで、なんとそのコードのコードレビューをScala座で行うという、（たぶん）Scala座初のスタイルの発表でした。いくつか指摘は上がりましたが例えば</p>
+
+<ul>
+<li><code>var</code>より<code>val</code>を使ったほうがいいはもしかしたら迷信かもしれない</li>
+<li><code>hogehoge1</code>,<code>hogehoge2</code>みたいな変数名はやめよう
+
+<ul>
+<li>コレクションを利用しよう</li>
+</ul>
+</li>
+<li>エラー処理は極力まとめよう</li>
+<li>jsonのパースはfor-yield式を使ってかっこよく</li>
+<li>Viewが要らないサービスでも、生存確認のためにViewを用意しておくのはいいかも</li>
+</ul>
+
+
+<p>と言った点が挙がりました。コードのスタイルは個人やチームによって大きく異ることがある点ですが、とは言え一般的にバッドプラクティスと呼ばれる物には注意していきたいですね。</p>
+
+<h3><a href="https://twitter.com/yuba">yubaさん</a></h3>
+
+<p><a href="http://prezi.com/xr-6dmkzc2tg/scala/">Scalaの型体系はとてもいい</a></p>
+
+<p>型システムの視点でScalaの他にKotlin,Ceylon,そしてTypeScript,CoffeeScript,Hexeなどの調査を行った報告です。Scalaが型に関して非常に力があることがわかりますね。</p>
+
+<p>しかし、Playframeworkを利用することは決まっていてチーム内で実績などからJavaが採用されたとのこと。</p>
+
+<p>この調査結果は消して無駄にはならない・・・はず・・・</p>
+
+<h3><a href="https://twitter.com/Fuji_Yos">Fuji_Yosさん</a></h3>
+
+<p>RiakとScalaでTwitterでログインをするTwitterみたいな何かをするサービスの実装を続けているFuji_Yosさん。そこの進捗報告でした。</p>
+
+<p>Riakは認証機構を自前で実装する必要があるとのことで、その辺りの処理を行うとコードがアレなことになるとのこと。ここでもPlayのWS関連のパワー不足が気になったそうでした。</p>
+
+<p>さらに実装は完了したそうですが、自前でログインを行う機能を実装してしまったようでTwitterで認証する仕組みではなくなると言う落ちが・・・。</p>
+
+<h2>参考のリンク</h2>
+
+<ul>
+<li><a href="https://github.com/spray/twirl">spray/twirl</a>
+
+<ul>
+<li>Scalaのテンプレートエンジン</li>
+</ul>
+</li>
+<li><a href="http://www.hexlang.org/">Hex</a>
+
+<ul>
+<li>マルチパラダイムなプログラミング言語。Enumがキモイ</li>
+</ul>
+</li>
+<li><a href="http://ceylon-lang.org/">Ceylon</a>
+
+<ul>
+<li>型システムが強い、JVMとJavaScript実行環境で動作をする言語。</li>
+</ul>
+</li>
+<li><a href="https://github.com/pocorall/scaloid">Scaloid</a>
+
+<ul>
+<li>ScalaでAndroidのアプリを実装するためのライブラリ、フレームワーク</li>
+</ul>
+</li>
+<li><a href="http://squeryl.org/">Squeryl</a>
+
+<ul>
+<li>ORマッパー</li>
+</ul>
+</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/scala_za/blog/2013/12/09/scalaza-06/">新宿Scala座 第6会</a></h1>
     
     
       <p class="meta">
@@ -110,9 +276,7 @@
 
 <p>問題は、paizaさんがScalaに対応していないことですが・・・。</p>
 
-<p>回答の詳細などは、俺のブログにまとめましたので、よろしければそちらも。</p>
-
-<p><a href="http://numa08.hateblo.jp/entry/2013/12/07/231305">#新宿Scala座　で新入女子社員を救ってきた &ndash; @numa08　猫耳帽子の女の子</a></p>
+<p>回答の詳細などは、俺のブログにまとめましたので、よろしければそちらも。<a href="http://numa08.hateblo.jp/entry/2013/12/07/231305">#新宿Scala座　で新入女子社員を救ってきた &ndash; @numa08　猫耳帽子の女の子</a></p>
 
 <h3><a href="https://twitter.com/mironal">mironalさん</a></h3>
 
@@ -122,13 +286,9 @@
 
 <h3><a href="http://white-azalea.hatenablog.jp/">white-azaleaさん</a></h3>
 
-<p><a href="http://numa08.github.io/scala_za_data/6th/yoshii/#/">ここ１月の僕</a></p>
-
 <p>Vagrant,chefなどを利用してScalaの開発環境を作る方法、そしてNOSQLをScalaから触る場合に適しているツール、ライブラリの評価を行われていました。資料は近日アップロードします。</p>
 
 <h3><a href="https://twitter.com/hiraiva">hiraivaさん</a></h3>
-
-<p><a href="http://www.slideshare.net/JiroHiraiwa/scaladsp">ScalaでDSP作ってみた</a></p>
 
 <p>DSPシステムを実装された際のお話をしていただきました。ミリ秒単位での処理が求められる世界ですが、Scala自体はチューニングをあまり行う必要はなかったとのことです。ただ、システム全体をコンパイルすると10分程度かかると聞いて、旋律を覚えました・・・。</p>
 
@@ -236,55 +396,25 @@
 
 <h3><a href="https://twitter.com/numa08">numa08</a></h3>
 
-<p><a href="http://numa08.github.io/scala_za_data/5th/numa08/#0">JenkinsとPlayframework</a></p>
+<p><a href="https://gist.github.com/numa08/7064645">JenkinsとPlayframework</a></p>
 
 <h2>参考リンクなど</h2>
 
 <ul>
-<li><a href="https://github.com/leleuj/play-pac4j">Pack4J</a>
-
-<ul>
+<li><a href="https://github.com/leleuj/play-pac4j">Pack4J</a></li>
 <li>PlayFramework2.xで通信や認証を簡単にするためのプラグイン</li>
-</ul>
-</li>
-<li><a href="https://wiki.jenkins-ci.org/display/JENKINS/play-plugin">Play-plugin</a>
-
-<ul>
+<li><a href="https://wiki.jenkins-ci.org/display/JENKINS/play-plugin">Play-plugin</a></li>
 <li>Jenkins用のPlayframeworkプラグイン</li>
-</ul>
-</li>
-<li><a href="https://github.com/kaiinkinen/pvm">pvm</a>
-
-<ul>
+<li><a href="https://github.com/kaiinkinen/pvm">pvm</a></li>
 <li>PlayFrameworkのバージョン管理ツール</li>
-</ul>
-</li>
-<li><a href="https://github.com/yuroyoro/svm">svm</a>
-
-<ul>
+<li><a href="https://github.com/yuroyoro/svm">svm</a></li>
 <li>Scalaのバージョン管理ツール</li>
-</ul>
-</li>
-<li><a href="http://ja.wikipedia.org/wiki/Tf-idf">tf-idf</a>
-
-<ul>
+<li><a href="http://ja.wikipedia.org/wiki/Tf-idf">tf-idf</a></li>
 <li>枝切りの方法</li>
-</ul>
-</li>
-<li><a href="https://github.com/aselab/scala-activerecord`">Scala Active Record</a>
-
-<ul>
+<li><a href="https://github.com/aselab/scala-activerecord`">Scala Active Record</a></li>
 <li>ScalaのORマッパー</li>
-</ul>
-</li>
-<li><a href="https://github.com/tristanjuricek/knockoff">knockoff</a>
-
-<ul>
+<li><a href="https://github.com/tristanjuricek/knockoff">knockoff</a></li>
 <li>ScalaのMarkdownパーサー</li>
-</ul>
-</li>
-<li><a href="http://numa08.github.io/scala_za_data/4th/numa08/#0">numa08の第4回目資料</a></li>
-<li><a href="http://numa08.github.io/scala_za_data/4th/yoshii/#/">white-azaleaさんの４回目の資料</a></li>
 </ul>
 
 </div>
@@ -628,7 +758,11 @@ Twitterが公開しているTwitterAPIのJava用ラッパーライブラリ。T4
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/scala_za/blog/2013/12/09/scalaza-06/">#新宿Scala座 第6回</a>
+        <a href="/scala_za/blog/2014/01/19/scalaza-07/">#新宿Scala座 &#8216;14年１月号</a>
+      </li>
+    
+      <li class="post">
+        <a href="/scala_za/blog/2013/12/09/scalaza-06/">新宿Scala座 第6会</a>
       </li>
     
       <li class="post">
@@ -641,10 +775,6 @@ Twitterが公開しているTwitterAPIのJava用ラッパーライブラリ。T4
     
       <li class="post">
         <a href="/scala_za/blog/2013/07/11/scalaza-02/">#新宿Scala座　第2回</a>
-      </li>
-    
-      <li class="post">
-        <a href="/scala_za/blog/2013/07/11/scalaza-01/">#新宿Scala座　第1回</a>
       </li>
     
   </ul>
@@ -660,7 +790,7 @@ Twitterが公開しているTwitterAPIのJava用ラッパーライブラリ。T4
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - numa08 -
+  Copyright &copy; 2014 - numa08 -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
