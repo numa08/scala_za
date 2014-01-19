@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 
-# #新宿Scala座 '14年１月号
-
 [#新宿Scala座　１月号　Scala勉強会](http://www.zusaar.com/event/2527004)
 
 ２０１４年最初のScala座。今回からナンバリングをやめてみました。今後ナンバーが増えていくと、初めて参加される方とかで「前回参加してないのでちょっと・・・」みたいなことになってほしくないのが理由です。
@@ -85,7 +83,9 @@ PlayのHTTPクライアントのWSは便利ですが、非同期通信が前提�
 
 ### [Fuji_Yosさん](https://twitter.com/Fuji_Yos)
 
-RiakとScalaでTwitterｄでログインをするTwitterみたいな何かをするサービスの実装を続けているFuji_Yosさん。そこの進捗報告でした。Riakは認証機構を自前で実装する必要があるとのことで、その辺りの処理を行うとコードがアレなことになるとのこと。ここでもPlayのWS関連のパワー不足が気になったそうでした。
+RiakとScalaでTwitterでログインをするTwitterみたいな何かをするサービスの実装を続けているFuji_Yosさん。そこの進捗報告でした。
+
+Riakは認証機構を自前で実装する必要があるとのことで、その辺りの処理を行うとコードがアレなことになるとのこと。ここでもPlayのWS関連のパワー不足が気になったそうでした。
 
 さらに実装は完了したそうですが、自前でログインを行う機能を実装してしまったようでTwitterで認証する仕組みではなくなると言う落ちが・・・。
 
@@ -99,4 +99,6 @@ RiakとScalaでTwitterｄでログインをするTwitterみたいな何かをす
      - 型システムが強い、JVMとJavaScript実行環境で動作をする言語。
  - [Scaloid](https://github.com/pocorall/scaloid)
      - ScalaでAndroidのアプリを実装するためのライブラリ、フレームワーク
+ - [Squeryl](http://squeryl.org/)
+     - ORマッパー
  
