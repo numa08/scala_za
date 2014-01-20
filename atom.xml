@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2014-01-19T21:34:01+09:00</updated>
+  <updated>2014-01-21T00:20:31+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -107,6 +107,8 @@
 <p>この調査結果は消して無駄にはならない・・・はず・・・</p>
 
 <h3><a href="https://twitter.com/Fuji_Yos">Fuji_Yosさん</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/7th/fuji_yos/">riak + play</a></p>
 
 <p>RiakとScalaでTwitterでログインをするTwitterみたいな何かをするサービスの実装を続けているFuji_Yosさん。そこの進捗報告でした。</p>
 
