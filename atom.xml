@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2014-01-21T00:20:31+09:00</updated>
+  <updated>2014-03-16T09:30:30+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[新宿Scala座 '14年 ３月号]]></title>
+    <link href="http://numa08.github.io/scala_za/blog/2014/03/16/scalaza-08/"/>
+    <updated>2014-03-16T08:03:00+09:00</updated>
+    <id>http://numa08.github.io/scala_za/blog/2014/03/16/scalaza-08</id>
+    <content type="html"><![CDATA[<p><a href="http://www.zusaar.com/event/3997003">#新宿Scala座 &lsquo;14年 3月号</a></p>
+
+<p>2月のScala座が大雪の影響でなくなっちゃったので、２ヶ月ぶりのScala座でした。</p>
+
+<p>割と主催者の思惑通り、「Scala座があるから勉強をする」といった感じで自分で勉強をするためのキッカケにしている方もいらっしゃいました。これからもScalaのコミュニティ活動の一貫として続けていきたいですね。それでは、発表資料です。</p>
+
+<h2>発表資料</h2>
+
+<h3><a href="https://twitter.com/numa08">@numa08</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/8th/numa08/#0">Scala on Android</a></p>
+
+<p>ScalaでAndroidアプリを実装する際にやばいこととか、気をつけることとかを幾つか。今回はScaloidをネタにしましたが、やはりライフサイクルが絡んでくるオブジェクトに対して、Scalaってあんまりパワーを発揮できないとは思います。</p>
+
+<h3><a href="https://twitter.com/nisshieeorg">@nisshieeorg</a></h3>
+
+<p><a href="http://nisshiee.github.io/work/slide/20140315/#/">akkaを使って社内ツールを作った話</a></p>
+
+<p>フロントエンドのwebアプリからakkaで動くバックエンドにメッセージを送るモデルの実装をされたお話。いくつかの要件を満たすために様々に工夫をされたようです。</p>
+
+<p>動的にメッセージの処理方法を変更させる、処理中、処理終了したメッセージのカウントを行うなどの工夫をされています。</p>
+
+<h3><a href="https://www.facebook.com/kohachori">Kohara Sho</a></h3>
+
+<p>ScaloidでAndroidアプリの実装を行う際の闇とか闇とか闇のお話。まさに <strong>闇の掛け算</strong></p>
+
+<p>ブログに情報をまとめて掲載されているそうですので、そちらを。<a href="http://shoscala.hatenablog.com/">Scalaと一緒</a></p>
+
+<h3><a href="http://white-azalea.hatenablog.jp/">white-azalea</a></h3>
+
+<p><a href="http://numa08.github.io/scala_za_data/8th/yoshii/#/">個人開発 たまには何かを作ってみたく</a></p>
+
+<p>テキストをマージするサービスの実装をなさっているとか。その際に利用するサービスやライブラリのご紹介。利用できるものをうまく活用して開発のコストを落としていきたいですね。</p>
+
+<h3><a href="https://twitter.com/mironal">@mironal</a></h3>
+
+<p><a href="http://mironal.github.io/slides/2014-03-15/scala/index.html#0">ScalaとHaskel</a></p>
+
+<p>Haskelの勉強を開始されたということらしいので、Haskelの発表。Haskelは未経験だったので俺的には新鮮でした。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[#新宿Scala座 '14年１月号]]></title>
