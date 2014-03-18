@@ -1,0 +1,55 @@
+---
+layout: post
+title: "#新宿Scala座 '14年 ３月号"
+date: 2014-03-16 08:03
+comments: true
+categories: 
+---
+
+[#新宿Scala座 '14年 3月号](http://www.zusaar.com/event/3997003)
+
+2月のScala座が大雪の影響でなくなっちゃったので、２ヶ月ぶりのScala座でした。
+
+
+割と主催者の思惑通り、「Scala座があるから勉強をする」といった感じで自分で勉強をするためのキッカケにしている方もいらっしゃいました。これからもScalaのコミュニティ活動の一貫として続けていきたいですね。それでは、発表資料です。
+
+## 発表資料
+
+### [@numa08](https://twitter.com/numa08)
+
+[Scala on Android](http://numa08.github.io/scala_za_data/8th/numa08/#0)
+
+ScalaでAndroidアプリを実装する際にやばいこととか、気をつけることとかを幾つか。今回はScaloidをネタにしましたが、やはりライフサイクルが絡んでくるオブジェクトに対して、Scalaってあんまりパワーを発揮できないとは思います。
+
+### [@nisshieeorg](https://twitter.com/nisshieeorg)
+
+[akkaを使って社内ツールを作った話](http://nisshiee.github.io/work/slide/20140315/#/)
+
+フロントエンドのwebアプリからakkaで動くバックエンドにメッセージを送るモデルの実装をされたお話。いくつかの要件を満たすために様々に工夫をされたようです。
+
+動的にメッセージの処理方法を変更させる、処理中、処理終了したメッセージのカウントを行うなどの工夫をされています。
+
+### [Kohara Sho](https://www.facebook.com/kohachori)
+
+ScaloidでAndroidアプリの実装を行う際の闇とか闇とか闇のお話。まさに **闇の掛け算**
+
+
+ブログに情報をまとめて掲載されているそうですので、そちらを。[Scalaと一緒](http://shoscala.hatenablog.com/)
+
+### [white-azalea](http://white-azalea.hatenablog.jp/)
+
+[個人開発 たまには何かを作ってみたく](http://numa08.github.io/scala_za_data/8th/yoshii/#/)
+
+テキストをマージするサービスの実装をなさっているとか。その際に利用するサービスやライブラリのご紹介。利用できるものをうまく活用して開発のコストを落としていきたいですね。
+
+### [@mironal](https://twitter.com/mironal)
+
+[ScalaとHaskel](http://mironal.github.io/slides/2014-03-15/scala/index.html#0)
+
+Haskelの勉強を開始されたということらしいので、Haskelの発表。Haskelは未経験だったので俺的には新鮮でした。
+
+### [@cosmo__](https://twitter.com/cosmo__)
+
+[Scalaを書く時にはまったこと](http://www.slideshare.net/cosmo0920/scala2014-3)
+
+Haskel経験者目線でのScala。意外と関数型っぽくないみたいな話はたまに聞きますね・・・。俺もそろそろscalazとか手を出してみるのもいいかもしれません。
