@@ -4,7 +4,7 @@
   <title><![CDATA[新宿Scala座]]></title>
   <link href="http://numa08.github.io/scala_za/atom.xml" rel="self"/>
   <link href="http://numa08.github.io/scala_za/"/>
-  <updated>2014-03-18T22:13:37+09:00</updated>
+  <updated>2014-03-18T23:03:54+09:00</updated>
   <id>http://numa08.github.io/scala_za/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -57,6 +57,12 @@
 <p><a href="http://mironal.github.io/slides/2014-03-15/scala/index.html#0">ScalaとHaskel</a></p>
 
 <p>Haskelの勉強を開始されたということらしいので、Haskelの発表。Haskelは未経験だったので俺的には新鮮でした。</p>
+
+<h3><a href="https://twitter.com/cosmo__">@cosmo__</a></h3>
+
+<p><a href="http://www.slideshare.net/cosmo0920/scala2014-3">Scalaを書く時にはまったこと</a></p>
+
+<p>Haskel経験者目線でのScala。意外と関数型っぽくないみたいな話はたまに聞きますね・・・。俺もそろそろscalazとか手を出してみるのもいいかもしれません。</p>
 ]]></content>
   </entry>
   
