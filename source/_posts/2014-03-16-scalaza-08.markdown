@@ -33,7 +33,6 @@ ScalaでAndroidアプリを実装する際にやばいこととか、気をつ�
 
 ScaloidでAndroidアプリの実装を行う際の闇とか闇とか闇のお話。まさに **闇の掛け算**
 
-
 ブログに情報をまとめて掲載されているそうですので、そちらを。[Scalaと一緒](http://shoscala.hatenablog.com/)
 
 ### [white-azalea](http://white-azalea.hatenablog.jp/)
@@ -41,6 +40,12 @@ ScaloidでAndroidアプリの実装を行う際の闇とか闇とか闇のお話
 [個人開発 たまには何かを作ってみたく](http://numa08.github.io/scala_za_data/8th/yoshii/#/)
 
 テキストをマージするサービスの実装をなさっているとか。その際に利用するサービスやライブラリのご紹介。利用できるものをうまく活用して開発のコストを落としていきたいですね。
+
+### [Reo Mori](https://www.facebook.com/reoring)
+
+[IDDD with Scala](http://www.slideshare.net/reoring/scala2014315-32344532#)
+
+IDDD、そしてCQRSという言葉を俺は初めて聞きました。そういったパターンの実装をSprayを使って実装されたというお話。
 
 ### [@mironal](https://twitter.com/mironal)
 
@@ -53,3 +58,9 @@ Haskelの勉強を開始されたということらしいので、Haskelの発�
 [Scalaを書く時にはまったこと](http://www.slideshare.net/cosmo0920/scala2014-3)
 
 Haskel経験者目線でのScala。意外と関数型っぽくないみたいな話はたまに聞きますね・・・。俺もそろそろscalazとか手を出してみるのもいいかもしれません。
+
+### リンクなど
+
+ - [CQRS](http://itpro.nikkeibp.co.jp/article/COLUMN/20140127/532413/)
+ - [Implementing Domain-Driven Design](http://www.amazon.co.jp/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+ - [spray](http://spray.io/)
