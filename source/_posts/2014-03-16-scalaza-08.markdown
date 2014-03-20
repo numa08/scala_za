@@ -47,6 +47,16 @@ ScaloidでAndroidアプリの実装を行う際の闇とか闇とか闇のお話
 
 IDDD、そしてCQRSという言葉を俺は初めて聞きました。そういったパターンの実装をSprayを使って実装されたというお話。
 
+### [Suin Hidehito Nozawa](https://www.facebook.com/suinyeze)
+
+[チームのコードを均一化したい！ Scalariformで自動的に美しくコードを作る方法 CodeIQ MAGAZINE ](http://www.slideshare.net/suinyeze/scala2014315-32344100)
+
+Scalarifromを使ってコードの整形を行う方法の説明。チーム開発では、コードの整形ルールを統一した方がメリットになる場合も多いですからね。
+
+また、NozawaさんはQiitaにもScala関連の投稿が沢山ありましたので、そちらもリンクを貼っておきます。
+
+[Qiita/suin](http://qiita.com/suin/items)
+
 ### [@mironal](https://twitter.com/mironal)
 
 [ScalaとHaskel](http://mironal.github.io/slides/2014-03-15/scala/index.html#0)
@@ -64,3 +74,4 @@ Haskel経験者目線でのScala。意外と関数型っぽくないみたいな
  - [CQRS](http://itpro.nikkeibp.co.jp/article/COLUMN/20140127/532413/)
  - [Implementing Domain-Driven Design](http://www.amazon.co.jp/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
  - [spray](http://spray.io/)
+ - [Scalariform](http://mdr.github.io/scalariform/)
